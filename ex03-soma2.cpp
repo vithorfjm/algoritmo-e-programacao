@@ -1,6 +1,6 @@
-/*Leia dois valores inteiros, no caso para vari·veis A e B. A seguir,
-calcule a soma entre elas e atribua ‡ vari·vel SOMA. A seguir escrever
-o valor desta vari·vel.*/
+/*Leia dois valores inteiros, no caso para vari√°veis A e B. A seguir,
+calcule a soma entre elas e atribua √† vari√°vel SOMA. A seguir escrever
+o valor desta vari√°vel.*/
 
 #include <stdio.h>
 

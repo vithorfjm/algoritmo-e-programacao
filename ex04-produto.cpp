@@ -1,5 +1,5 @@
 /* Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores
-e atribua esta operaÁ„o ‡ vari·vel PROD. A seguir mostre a vari·vel PROD com
+e atribua esta opera√ß√£o √† vari√°vel PROD. A seguir mostre a vari√°vel PROD com
 mensagem correspondente. */
 
 #include <stdio.h>

@@ -6,12 +6,16 @@ Assuma que cada nota pode ir de 0 ate 10.0, sempre com uma casa decimal.*/
 
 #include <stdio.h>
 
+#define PESO1 3.5
+#define PESO2 7.5
+#define SOMAPESOS 11
+
 int main(){
-	double a, b, media;
+	double nota1, nota2, media;
 	printf("Primeira nota: ");
-	scanf("%lf", &a);
+	scanf("%lf", &nota1);
 	printf("Segunda nota: ");
-	scanf("%lf", &b);
-	media = (a*3.5 + b*7.5) / 11;
-	printf("Media = %lf", media);
+	scanf("%lf", &nota2);
+	media = (nota1 * PESO1 + nota2 * PESO2) / SOMAPESOS;
+	printf("Media = %.5lf", media);
 }
